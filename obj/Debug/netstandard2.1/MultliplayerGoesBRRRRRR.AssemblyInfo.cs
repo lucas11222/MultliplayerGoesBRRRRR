@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MultliplayerGoesBRRRRRR")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("0.0.1.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("0.0.1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("0.0.1+f8a897fd6d9a6113fc173d08956f3d518383c342")]
 [assembly: System.Reflection.AssemblyProductAttribute("Multliplayer goes BRRRR")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MultliplayerGoesBRRRRRR")]
 [assembly: System.Reflection.AssemblyVersionAttribute("0.0.1.0")]
